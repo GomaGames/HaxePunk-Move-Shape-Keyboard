@@ -66,7 +66,9 @@ package install
 
 more information on [editors an IDEs](http://haxe.org/documentation/introduction/editors-and-ides.html#sublime)
 
-### Testing
+----
+
+## Testing
 
 #### Run With Sublime Text Plugin
 
